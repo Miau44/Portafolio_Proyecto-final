@@ -1,0 +1,454 @@
+[
+  {
+    "id": "ai-customer-service",
+    "title": "Desarrollo de I.A. para la atención al cliente en páginas web y call center",
+    "issuer": "Colegio de Ingenieros de Sistemas",
+    "date": "octubre 2025",
+    "pages": [
+      27
+    ],
+    "images": [
+      {
+        "page": 27,
+        "full": "ai-customer-service/page-1.webp",
+        "thumb": "ai-customer-service/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "ai-customer-service/thumb-1.webp",
+    "lightbox": "ai-customer-service/page-1.webp"
+  },
+  {
+    "id": "credit-risk-management",
+    "title": "Gestión del Riesgo Crediticio",
+    "issuer": "GEM / Microsoft Partner Network / Florida Global University",
+    "date": "julio 2025",
+    "pages": [
+      9,
+      10,
+      11
+    ],
+    "images": [
+      {
+        "page": 9,
+        "full": "credit-risk-management/page-1.webp",
+        "thumb": "credit-risk-management/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1350
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 540
+        }
+      },
+      {
+        "page": 10,
+        "full": "credit-risk-management/page-2.webp",
+        "thumb": "credit-risk-management/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1350
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 540
+        }
+      },
+      {
+        "page": 11,
+        "full": "credit-risk-management/page-3.webp",
+        "thumb": "credit-risk-management/thumb-3.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "credit-risk-management/thumb-1.webp",
+    "lightbox": "credit-risk-management/page-1.webp"
+  },
+  {
+    "id": "database-bi-ai-specialization",
+    "title": "Gestión de Base de Datos, Inteligencia de Negocios e IA",
+    "issuer": "CIIP LATAM",
+    "date": "julio 2025",
+    "pages": [
+      12,
+      13
+    ],
+    "images": [
+      {
+        "page": 12,
+        "full": "database-bi-ai-specialization/page-1.webp",
+        "thumb": "database-bi-ai-specialization/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 13,
+        "full": "database-bi-ai-specialization/page-2.webp",
+        "thumb": "database-bi-ai-specialization/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "database-bi-ai-specialization/thumb-1.webp",
+    "lightbox": "database-bi-ai-specialization/page-1.webp"
+  },
+  {
+    "id": "predictive-python-ml",
+    "title": "Análisis Predictivo con Python y Machine Learning",
+    "issuer": "CIIP LATAM",
+    "date": "julio 2025",
+    "pages": [
+      22,
+      23
+    ],
+    "images": [
+      {
+        "page": 22,
+        "full": "predictive-python-ml/page-1.webp",
+        "thumb": "predictive-python-ml/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 23,
+        "full": "predictive-python-ml/page-2.webp",
+        "thumb": "predictive-python-ml/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "predictive-python-ml/thumb-1.webp",
+    "lightbox": "predictive-python-ml/page-1.webp"
+  },
+  {
+    "id": "mongodb-bi",
+    "title": "Gestión de Base de Datos para Inteligencia de Negocios con MongoDB",
+    "issuer": "CIIP LATAM",
+    "date": "junio 2025",
+    "pages": [
+      18,
+      19
+    ],
+    "images": [
+      {
+        "page": 18,
+        "full": "mongodb-bi/page-1.webp",
+        "thumb": "mongodb-bi/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 19,
+        "full": "mongodb-bi/page-2.webp",
+        "thumb": "mongodb-bi/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "mongodb-bi/thumb-1.webp",
+    "lightbox": "mongodb-bi/page-1.webp"
+  },
+  {
+    "id": "power-bi",
+    "title": "Exploración y Visualización de Datos con Power BI",
+    "issuer": "CIIP LATAM",
+    "date": "junio 2025",
+    "pages": [
+      20,
+      21
+    ],
+    "images": [
+      {
+        "page": 20,
+        "full": "power-bi/page-1.webp",
+        "thumb": "power-bi/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 21,
+        "full": "power-bi/page-2.webp",
+        "thumb": "power-bi/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "power-bi/thumb-1.webp",
+    "lightbox": "power-bi/page-1.webp"
+  },
+  {
+    "id": "huawei-data-management-analysis",
+    "title": "Data Management and Analysis",
+    "issuer": "Huawei",
+    "date": "junio 2025",
+    "pages": [
+      25
+    ],
+    "images": [
+      {
+        "page": 25,
+        "full": "huawei-data-management-analysis/page-1.webp",
+        "thumb": "huawei-data-management-analysis/thumb-1.webp",
+        "fullSize": {
+          "width": 1323,
+          "height": 1871
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 1018
+        }
+      }
+    ],
+    "cover": "huawei-data-management-analysis/thumb-1.webp",
+    "lightbox": "huawei-data-management-analysis/page-1.webp"
+  },
+  {
+    "id": "huawei-hcia-ai",
+    "title": "Artificial Intelligence HCIA",
+    "issuer": "Huawei",
+    "date": "junio 2025",
+    "pages": [
+      24
+    ],
+    "images": [
+      {
+        "page": 24,
+        "full": "huawei-hcia-ai/page-1.webp",
+        "thumb": "huawei-hcia-ai/thumb-1.webp",
+        "fullSize": {
+          "width": 1323,
+          "height": 1871
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 1018
+        }
+      }
+    ],
+    "cover": "huawei-hcia-ai/thumb-1.webp",
+    "lightbox": "huawei-hcia-ai/page-1.webp"
+  },
+  {
+    "id": "excel-bi-decisions",
+    "title": "Excel y Google Sheet Aplicado a Inteligencia de Negocios y Decisiones",
+    "issuer": "CIIP LATAM",
+    "date": "abril 2025",
+    "pages": [
+      16,
+      17
+    ],
+    "images": [
+      {
+        "page": 16,
+        "full": "excel-bi-decisions/page-1.webp",
+        "thumb": "excel-bi-decisions/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 17,
+        "full": "excel-bi-decisions/page-2.webp",
+        "thumb": "excel-bi-decisions/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "excel-bi-decisions/thumb-1.webp",
+    "lightbox": "excel-bi-decisions/page-1.webp"
+  },
+  {
+    "id": "bi-big-data",
+    "title": "Fundamentos de Inteligencia de Negocios y Big Data",
+    "issuer": "CIIP LATAM",
+    "date": "marzo 2025",
+    "pages": [
+      14,
+      15
+    ],
+    "images": [
+      {
+        "page": 14,
+        "full": "bi-big-data/page-1.webp",
+        "thumb": "bi-big-data/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 15,
+        "full": "bi-big-data/page-2.webp",
+        "thumb": "bi-big-data/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "bi-big-data/thumb-1.webp",
+    "lightbox": "bi-big-data/page-1.webp"
+  },
+  {
+    "id": "sql-mysql",
+    "title": "Experto en Base de Datos SQL & MySQL",
+    "issuer": "Formación de Expertos",
+    "date": "febrero 2025",
+    "pages": [
+      26
+    ],
+    "images": [
+      {
+        "page": 26,
+        "full": "sql-mysql/page-1.webp",
+        "thumb": "sql-mysql/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "sql-mysql/thumb-1.webp",
+    "lightbox": "sql-mysql/page-1.webp"
+  },
+  {
+    "id": "oracle-database",
+    "title": "Experto en Oracle Database",
+    "issuer": "Oracle Academy",
+    "date": "febrero 2025",
+    "pages": [
+      28,
+      29,
+      30
+    ],
+    "images": [
+      {
+        "page": 28,
+        "full": "oracle-database/page-1.webp",
+        "thumb": "oracle-database/thumb-1.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 29,
+        "full": "oracle-database/page-2.webp",
+        "thumb": "oracle-database/thumb-2.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      },
+      {
+        "page": 30,
+        "full": "oracle-database/page-3.webp",
+        "thumb": "oracle-database/thumb-3.webp",
+        "fullSize": {
+          "width": 1800,
+          "height": 1273
+        },
+        "thumbSize": {
+          "width": 720,
+          "height": 509
+        }
+      }
+    ],
+    "cover": "oracle-database/thumb-1.webp",
+    "lightbox": "oracle-database/page-1.webp"
+  }
+]
